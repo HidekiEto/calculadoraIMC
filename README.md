@@ -20,12 +20,12 @@ A **Calculadora de IMC** é um aplicativo desenvolvido em React Native que permi
 2. Abra o terminal e execute o seguinte comando para clonar o repositório e inicializar o projeto:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
+   git clone https://github.com/HidekiEto/calculadoraIMC.git
 
    cd calculadoraIMC
 
    npx expo start --tunnel
 
-### Link do vídeo explicativo
+## Link do vídeo explicativo
 
     https://youtu.be/0eUDQhGoSds
